@@ -29,5 +29,3 @@ LetterPage.click_send_button(driver)
 driver.close()
 quit()
 
-
-
